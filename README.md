@@ -30,7 +30,7 @@ php-crud/
 
 ---
 
-## 🗄️ Isi File `Database (MySQL Workbench)`
+## 🗄️ Isi File Database (MySQL Workbench)
 
 Script:
 
