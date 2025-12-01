@@ -4,7 +4,7 @@
 
 Proyek ini adalah aplikasi CRUD (Create, Read, Update, Delete) sederhana untuk manajemen data produk, termasuk upload gambar. 
 
-## 🔧 Teknologi yang Digunakan
+## 🔧 Tools yang Digunakan
 
 - PHP 8+ (native, tanpa framework)
 - MySQL / MariaDB
