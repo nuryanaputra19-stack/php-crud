@@ -7,7 +7,14 @@
 </head>
 <body>
     <div class="container">
-        
+        <div class="card">
+            <div class="card-header">
+                <h3>Test Page</h3>
+            </div>
+            <div class="card-body">
+                <p>This is a test page for the PHP CRUD application.</p>
+            </div>
+        </div>
     </div>
 </body>
 </html>
